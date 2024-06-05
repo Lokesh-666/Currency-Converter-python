@@ -43,13 +43,13 @@ To run this program, you need to have Python installed on your system. Additiona
    Clone or download this repository to your local machine.
 
    ```sh
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/Lokesh-666/Currency-Converter-python.git
    ```
 
    Navigate to the directory where you have saved the code.
 
    ```sh
-   cd currency-converter
+   cd Currency-Converter-python
    ```
 
 ## How to Run the Program
@@ -59,13 +59,13 @@ To run this program, you need to have Python installed on your system. Additiona
 3. Run the following command to start the program:
 
    ```sh
-   python currency_converter.py
+   python script.py
    ```
 
    or
 
    ```sh
-   python3 currency_converter.py
+   python3 script.py
    ```
 
 ## Usage
@@ -114,3 +114,5 @@ If you find any bugs or have suggestions for improvements, please open an issue 
 ## License
 
 This project is licensed under the MIT License.
+
+---
